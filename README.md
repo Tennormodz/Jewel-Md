@@ -1,6 +1,6 @@
 <div class = "repo" align = "center">
 <a href = "#">
-<img src = "https://github.com/DarkMakerofc/QUEEN-ELISA-MD/assets/108072422/098bc5fb-da7a-45aa-bb42-7e1bfa226de4"  width="300" height="300">
+<img src = "repo-data/repo-logo.jpg"  width="300" height="300">
 </img>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+ELISA+WHATSAPP+BOT" alt="">
