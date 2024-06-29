@@ -30,16 +30,29 @@ And Follow mr nima and give one star for queen elisa.
 
 #### Give One star For Queen Elisa and [Follow Me](https://github.com/DarkMakerofc) 
 
+## How create queen elisa.
+1. You must need those things before deploy.
+ - Github Account.
+ - mongodb url ( sing up and get mongodb url )
+ - host
+2. Deploy steps.
+ - Fork queen elisa repository.
+ - Link with yoour whatsappp using Scan qr code or pair code.
+ - open settings.js on your forked repository. and put `SESSION_ID` and `MONGODB_URL` and change other settings you need.
+ - Deploy using your host.
 ## 1. FORK REPOSITORY
-<a href = "/fork"> <img src = "/repo-data/fork-elisa-repo-button.svg" width="150" height="70" > </a>
+<a href = "#"> <img src = "/repo-data/fork-elisa-repo-button.svg" width="150" height="70" > </a>
 </br>
 
 ## 2. GET SESSION ID
-<a href = "/fork"> <img src = "/repo-data/elisa scan qr code.svg" width="150" height="70" > </a></br>
+<a href = "#"> <img src = "/repo-data/elisa scan qr code.svg" width="150" height="70" > </a></br>
     OR   
-<a href = "/fork"> <img src = "/repo-data/elisa pair code.svg" width="150" height="70" > </a>
+<a href = "#"> <img src = "/repo-data/elisa pair code.svg" width="150" height="70" > </a>
 </br>
 
+## Watch Youtube videos.
+<a href = "#"> <img src = "/repo-data/yt videos button.svg" width="150" height="70" > </a>
+</br>
 # WAIT FOR V4 : )
 > MR NIMA OFC ( DARKMAKER ) , ELISACODERS
 >
@@ -62,3 +75,8 @@ And Follow mr nima and give one star for queen elisa.
 
 ## Feedback
 If you have any feedback, please reach out to us at queenelisa.bot@gmail.com
+
+## Support
+If you need help, Join queen elisa telegram support group [t.me/queenelisasupport](t.me/queenelisasupport)
+</br></br></br>
+ <p align="center"> ELISACODERS - QUEEN ELISA | 2024 </p>
