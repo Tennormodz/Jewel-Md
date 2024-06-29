@@ -31,15 +31,17 @@ And Follow mr nima and give one star for queen elisa.
 #### Give One star For Queen Elisa and [Follow Me](https://github.com/DarkMakerofc) 
 
 ## How create queen elisa.
-1. You must need those things before deploy.
- - Github Account.
- - mongodb url ( sing up and get mongodb url )
- - host
-2. Deploy steps.
- - Fork queen elisa repository.
- - Link with yoour whatsappp using Scan qr code or pair code.
- - open settings.js on your forked repository. and put `SESSION_ID` and `MONGODB_URL` and change other settings you need.
- - Deploy using your host.
+**1. You must need those things before deploy.**
+ - _Github Account._
+ - _mongodb url ( sing up and get mongodb url )_
+ - _host_
+
+**2. Deploy steps.**
+ - _Fork queen elisa repository._
+ - _Link with yoour whatsappp using Scan qr code or pair code._
+ - _Open settings.js on your forked repository. and put `SESSION_ID` and `MONGODB_URL` and change other settings you need._
+ - _Deploy using your host._
+   </br>
 ## 1. FORK REPOSITORY
 <a href = "#"> <img src = "/repo-data/fork-elisa-repo-button.svg" width="150" height="70" > </a>
 </br>
