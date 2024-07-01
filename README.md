@@ -57,6 +57,22 @@ And Follow mr nima and give one star for queen elisa.
 ## Watch Youtube videos.
 <a href = "#"> <img src = "/repo-data/yt videos button.svg" width="150" height="70" > </a>
 </br>
+
+## Run On termux
+```
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install imagemagick -y
+git clone https://github.com/DarkMakerofc/Queen-Elisa-Md
+cd Queen-Elisa-Md
+npm install
+npm start
+```
 # WAIT FOR V4 : )
 > MR NIMA OFC ( DARKMAKER ) , ELISACODERS
 >
