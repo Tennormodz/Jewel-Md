@@ -45,14 +45,24 @@ And Follow mr nima and give one star for queen elisa.
  - _Deploy using your host._
    </br>
 ## 1. FORK REPOSITORY
-<a href = "#"> <img src = "/repo-data/fork-elisa-repo-button.svg" width="150" height="70" > </a>
+<a href = "/fork"> <img src = "/repo-data/fork-elisa-repo-button.svg" width="150" height="70" > </a>
 </br>
 
 ## 2. GET SESSION ID
-<a href = "#"> <img src = "/repo-data/elisa scan qr code.svg" width="150" height="70" > </a></br>
+<a href = "https://gpt-qr-code.onrender.com/elisa"> <img src = "/repo-data/elisa scan qr code.svg" width="150" height="70" > </a></br>
     OR   
 <a href = "#"> <img src = "/repo-data/elisa pair code.svg" width="150" height="70" > </a>
 </br>
+
+## Deploy.
+ [![nima](https://img.shields.io/badge/elisa_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://id.heroku.com/)
+  
+[![nima](https://img.shields.io/badge/elisa_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=queen-elisa)
+   
+[![nima](https://img.shields.io/badge/elisa_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+   
+[![nima](https://img.shields.io/badge/elisa_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+
 
 ## Watch Youtube videos.
 <a href = "#"> <img src = "/repo-data/yt videos button.svg" width="150" height="70" > </a>
@@ -79,9 +89,9 @@ npm start
 
 ## 🔗 Contact Links
 [![NIMAYT](https://img.shields.io/badge/SUBSCRIBE%20ME-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MRNIMAOFC/)</br>
-[![NIMAYT](https://img.shields.io/badge/FOLLOW%20MRNIMA%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)]()</br>
-[![NIMAYT](https://img.shields.io/badge/FOLLOW%20ELISACODERS%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)]()</br>
-[![tg](https://img.shields.io/badge/elisacoders-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]()
+[![NIMAYT](https://img.shields.io/badge/FOLLOW%20MRNIMA%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaPrYpf0G0XrL1qz9j3i)</br>
+[![NIMAYT](https://img.shields.io/badge/FOLLOW%20ELISACODERS%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaeSE0bHgZWiMBaxEA2c)</br>
+[![tg](https://img.shields.io/badge/elisacoders-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/elisacoders)
 </br>
 ## Authors
 - [@darkmakerofc](https://www.github.com/darkmakerofc)
