@@ -82,10 +82,7 @@ git clone https://github.com/DarkMakerofc/Queen-Elisa-Md
 cd Queen-Elisa-Md
 npm install
 npm start
-```
-# WAIT FOR V4 : )
-> MR NIMA OFC ( DARKMAKER ) , ELISACODERS
->
+``
 
 ## 🔗 Contact Links
 [![NIMAYT](https://img.shields.io/badge/SUBSCRIBE%20ME-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MRNIMAOFC/)</br>
