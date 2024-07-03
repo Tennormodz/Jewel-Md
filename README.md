@@ -54,7 +54,7 @@ And Follow mr nima and give one star for queen elisa.
 ## 2. GET SESSION ID
 <a href = "https://gpt-qr-code.onrender.com/elisa"> <img src = "/repo-data/elisa scan qr code.svg" width="150" height="70" > </a></br>
     OR   
-<a href = "#"> <img src = "/repo-data/elisa pair code.svg" width="150" height="70" > </a>
+<a href = "https://replit.com/@MRNima/QUEEN-ELISA-V4-PAIR-CODE?v=1"> <img src = "/repo-data/elisa pair code.svg" width="150" height="70" > </a>
 </br>
 
 ## Deploy.
