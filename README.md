@@ -28,6 +28,7 @@ Queen elisa is a whatsapp bot created by mr nima ( darkmakerofc ) & ELISACODERS 
 We are not responsible for any problems caused by your use of this!
 [Contact the support group](https://t.me/queenelisasupport) for any issues that arise during the bot creation process.
 And Follow mr nima and give one star for queen elisa. 
+Contact Developer on [Discord](https://discord.com/invite/ZDP9PNrX).
 </br>
  ### `VERSION : V4`
 
@@ -48,7 +49,7 @@ And Follow mr nima and give one star for queen elisa.
  - _Deploy using your host._
    </br>
 ## 1. FORK REPOSITORY
-<a href = "/fork"> <img src = "/repo-data/fork-elisa-repo-button.svg" width="150" height="70" > </a>
+<a href = "https://github.com/DarkMakerofc/QUEEN-ELISA-MD/fork"> <img src = "/repo-data/fork-elisa-repo-button.svg" width="150" height="70" > </a>
 </br>
 
 ## 2. GET SESSION ID
