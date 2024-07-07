@@ -67,6 +67,8 @@ Contact Developer on [Discord](https://discord.com/invite/ZDP9PNrX).
    
 [![nima](https://img.shields.io/badge/elisa_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
+[![nima](https://img.shields.io/badge/elisa_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
+
 
 ## Watch Youtube videos.
 <a href = "#"> <img src = "/repo-data/yt videos button.svg" width="150" height="70" > </a>
