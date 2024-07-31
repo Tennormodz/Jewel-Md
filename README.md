@@ -56,8 +56,11 @@ Contact Developer on [Discord](https://discord.com/invite/ZDP9PNrX).
 ## 2. GET SESSION ID
 <a href = "https://gpt-qr-code.onrender.com/elisa"> <img src = "/repo-data/elisa scan qr code.svg" width="150" height="70" > </a></br>
     OR   
-<a href = "https://replit.com/@MRNima/QUEEN-ELISA-V4-PAIR-CODE?v=1"> <img src = "/repo-data/elisa pair code.svg" width="150" height="70" > </a>
+<a href = "https://queen-elisa-qr-pair.onrender.com/"> <img src = "/repo-data/elisa pair code.svg" width="150" height="70" > </a>
 </br>
+    OR
+    
+[TELEGRAM BOT](https://t.me/queen_elisa_pair_bot)
 
 ## Deploy.
  [![nima](https://img.shields.io/badge/elisa_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/QUEEN-ELISA-MD)
