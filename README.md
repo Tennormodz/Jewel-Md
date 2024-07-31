@@ -30,7 +30,8 @@ We are not responsible for any problems caused by your use of this!
 And Follow mr nima and give one star for queen elisa. 
 Contact Developer on [Discord](https://discord.com/invite/ZDP9PNrX).
 </br>
- ### `VERSION : V4`
+ ### `VERSION : V4.0.1`
+ `Last Update : ` _2024-07-31_ | [Update Info](/new-update.md)
 
 #### Give One star For Queen Elisa and [Follow Me](https://github.com/DarkMakerofc) 
 
