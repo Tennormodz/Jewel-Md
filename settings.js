@@ -3,7 +3,6 @@ const chalk = require('chalk')
 
 module.exports = {
   SESSION_ID: '',
-  MONGODB_URL: '', 
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -20,6 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
+  MONGODB_URL: '', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
@@ -30,13 +30,13 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   WORK_TYPE: 'private',
   WORK_MODE: 'all',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ\nelisacoders.org.lk/queen-elisa',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
   STICKER_AUTHOR: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
   STICKER_PACK: 'ᴇʟɪꜱᴀᴄᴏᴅᴇʀꜱ - ᴡᴀʙᴏᴛ',
-  REMOVE_BG_APIKEY: 'FQ4rvaeWWctwfnDJbYFFy54N',
+  REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '💻',
-  ALIVE_AS_GIF: false,
+  ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
   INBOX_BLOCK: false,
   OWNER_REACT: false,
@@ -55,6 +55,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   CMD_CORRECT: false,
   ANTI_CHANNEL_FORWARD: false,
   ANTI_BOT: false,
+  BUTTON_MESSAGES: true,
   SONG_DOWNLOAD_TYPE: 'selectable', // audio , document
   VIDEO_DOWNLOAD_TYPE: 'selectable', // video
   FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
